@@ -1,0 +1,62 @@
+[
+  {
+    "title": "Dom Casmurro",
+    "author": "Machado de Assis",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "publication_date": "1899-01-01"
+  },
+  {
+    "title": "O Cortiço (Meu Preferido >.<)",
+    "author": "Aluísio Azevedo",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "publication_date": "1890-01-01"
+  },
+  {
+    "title": "Capitães da Areia",
+    "author": "Jorge Amado",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "publication_date": "1937-01-01"
+  },
+  {
+    "title": "Grande Sertão: Veredas",
+    "author": "João Guimarães Rosa",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "publication_date": "1956-01-01"
+  },
+  {
+    "title": "Memórias Póstumas de Brás Cubas",
+    "author": "Machado de Assis",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "publication_date": "1881-01-01"
+  },
+  {
+    "title": "A Moreninha",
+    "author": "Joaquim Manuel de Macedo",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "publication_date": "1844-01-01"
+  },
+  {
+    "title": "Iracema",
+    "author": "José de Alencar",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "publication_date": "1865-01-01"
+  },
+  {
+    "title": "Senhora",
+    "author": "José de Alencar",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "publication_date": "1875-01-01"
+  },
+  {
+    "title": "Marília de Dirceu",
+    "author": "Tomás Antônio Gonzaga",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "publication_date": "1792-01-01"
+  },
+  {
+    "title": "A Escrava Isaura",
+    "author": "Bernardo Guimarães",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "publication_date": "1875-01-01"
+  }
+]

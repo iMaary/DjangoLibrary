@@ -1,0 +1,18 @@
+[
+  {
+    "key": "homepage_title",
+    "content": "Bem-vindo à Biblioteca Literária"
+  },
+  {
+    "key": "homepage_intro",
+    "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  },
+  {
+    "key": "catalog_title",
+    "content": "Nosso Catálogo de Livros"
+  },
+  {
+    "key": "footer_note",
+    "content": "© 2025 Biblioteca Literária. Todos os direitos reservados."
+  }
+]
