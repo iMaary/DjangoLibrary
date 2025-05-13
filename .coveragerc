@@ -1,0 +1,15 @@
+[run]
+source = portal
+branch = True
+
+omit =
+    */migrations/*
+    */tests/*
+    */__init__.py
+    urls.py
+    apps.py
+    admin.py
+    manage.py
+
+[html]
+directory = htmlcov
