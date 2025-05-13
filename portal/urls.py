@@ -5,4 +5,5 @@ from portal.views.book.details import details
 
 urlpatterns = [
     path('', homepage, name='homepage'),
+    path('catalog/', catalog, name='catalog'),
 ]

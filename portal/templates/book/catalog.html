@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block title %}Catalog{% endblock %}
+
+{% block content %}
+    <div class="container mt-5">
+        <h1>Books</h1>
+        <br>
+        <ul class="list-group">
+        {% for book in books %}
+            <li class="list-group-item">
+            <a href="{% url 'details' book.pk %}">{{ book.title }} - {{ book.author }}</a>
+            </li>
+        {% endfor %}
+        </ul>
+    </div>
+{% endblock %}
